@@ -3,6 +3,8 @@
 Tool to generate formatted file and folder structures in text, markdown and json formats. It allows output in the console or saving to a file. No need for installation, just run the script with your local installed Python version directly.
 
 
+![App Screenshot](https://github.com/AlexsdeG/FileTreeGenerator/blob/main/FileTreeGenerator.png)
+
 #### Features
 
 *   Generate file and folder structures in three formats: text, markdown, and json.
